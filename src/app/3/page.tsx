@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Semester3() {
     return (
       <>
-        <div className="h-screen grid grid-cols-1 md:grid-cols-2 gap-8 items-place-center px-4 py-8 md:p-48 text-center">
+        <div className="h-screen grid grid-cols-1 md:grid-cols-2 gap-8 items-place-center px-10 py-14 md:p-48 text-center">
           <Link
             href="https://www.notion.so/Analog-Communication-Sessional-3358f9f9b28780eb972acacb662c8f22?source=copy_link"
             className="px-20 py-16 bg-[#F79B72] rounded-2xl text-black text-2xl"
