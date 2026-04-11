@@ -512,7 +512,7 @@ export default function Semester3() {
         {/* Particles */}
         <div className="particles">
           {mounted && Array.from({ length: 16 }).map((_, i) => {
-            const colors = ["#f97316","#8b5cf6","#ec4899","#84cc16","#06b6d4"]
+            const colors = ["#f97316", "#8b5cf6", "#ec4899", "#84cc16", "#06b6d4"]
             const color = colors[i % colors.length]
             const size = 3 + (i % 4) * 2
             return (
