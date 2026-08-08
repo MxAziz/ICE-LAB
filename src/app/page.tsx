@@ -389,7 +389,7 @@ export default function Home() {
 
         {/* Header */}
         <div className="header-area">
-          <Link href="https://www.notion.so/Theory-33f8f9f9b28780d5bfc4d603e6c242cd?source=copy_link">
+          <Link href="https://app.notion.com/p/4-Semester-26a8f9f9b287803b88aff6ca1d9f8900?source=copy_link">
             <div className="eyebrow">Academic Roadmap</div>
           </Link>
           <h1 className="main-title">
